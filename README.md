@@ -1,4 +1,4 @@
-# ~~Binary-Conveter~~
+# Binary-Conveter
 This is a program I made in order to understand fully how to convert denary <b>INTEGER NUMBERS</b>
 to binary. If you would like to download the program and let me know if I have any bug i would be honored!!! ;-)
 
