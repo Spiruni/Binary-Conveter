@@ -11,4 +11,7 @@ Just it won't be as good as it would be in Python3.x
 I will update my repository with other programs as well like <b>FLOAT</b> number or <b>Two's Compliment</b> binary numbers.
 But you will have to be patient since now it is exams period [ WOOHOOO!!! ].
 
+#Contact Me
+Email: emm.spital@gmail.com <b>OR</b> dakos1900@gmail.com
+
 Regards, <i><b>SPIRUNI</b></i>
